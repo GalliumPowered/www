@@ -1,0 +1,53 @@
+@import url('https://fonts.cdnfonts.com/css/d-din');
+h1 {
+    font-family: "D-DIN", sans-serif;
+}
+
+h2 {
+    font-family: "D-DIN", sans-serif;
+}
+
+p {
+    font-family: "D-DIN", sans-serif;
+}
+
+.navbar {
+    background-image: linear-gradient(#525252, black);
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+}
+
+.logo {
+    margin-left: 10px;
+    width: 500px;
+    height: 75px;
+}
+
+.links {
+    font-family: "D-DIN Exp", sans-serif;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.stuff {
+    margin-left: 10px;
+}
